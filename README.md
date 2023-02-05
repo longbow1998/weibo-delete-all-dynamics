@@ -1,6 +1,6 @@
 微博点击头像到全是自己微博动态的个人主页 复制以下内容到浏览器控制台回车执行
 
-// 打开微博控制台赋值以下代码
+```javascript
 function deleteMessage() {
   // 下箭头
   let iDom = document.getElementsByClassName('woo-font woo-font--angleDown morepop_action_bk3Fq')[0];
@@ -24,3 +24,4 @@ function deleteMessage() {
 // 执行
 deleteMessage()
 //想要提速可以多执行几次 deleteMessage()
+```
