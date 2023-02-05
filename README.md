@@ -21,7 +21,6 @@ function deleteMessage() {
     }, 300)
   }
 }
-// 执行
+// 执行(想要提速可以多执行几次)
 deleteMessage()
-//想要提速可以多执行几次 deleteMessage()
 ```
